@@ -1,7 +1,9 @@
 # Carleton University Sprott School of Business
-# [Joseph Carrigan]
+# Contributor
+[Joseph Carrigan]
 (joecarrigan@cmail.carleton.ca)
 
+# Brief Description
 > The Code in this repository was used to create the final 
 report in Professor Alejandro Ramirez's BUSI4406 - Business Analytics.
 
